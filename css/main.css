@@ -1,16 +1,12 @@
 @charset "UTF-8";
 body {
-	background-color: #E8E8E8;
+	background-color: #F2F2F2;
 }
 .hero {
-	background-color: #B18A8A;
-	background-image: url(../images/bgbg.svg);
-	background-repeat: no-repeat;
-	min-height: 100%;
-	min-width: 100%;
-	height: auto;
-	width: auto;
-	padding-top: auto;
-	padding-bottom: auto;
-	display: block;
+	background-color: #F7F7F7;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
 }
