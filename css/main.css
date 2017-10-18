@@ -10,3 +10,16 @@ body {
 	margin-bottom: 10px;
 	margin-left: 10px;
 }
+.row .col-lg-1 .img-circle.img-responsive {
+	margin-top: 35px;
+}
+.name {
+	-webkit-box-shadow: 0px 0px #4F4F4F;
+	box-shadow: 0px 0px #4F4F4F;
+	font-size: 24px;
+	line-height: 36px;
+	font-family: 'Francois One', sans-serif;
+}
+.name_disc {
+	font-family: 'Khula', sans-serif;
+}
