@@ -1,25 +1,18 @@
 @charset "UTF-8";
 body {
-	background-color: #F2F2F2;
+	margin: 0;
+	padding 0;
+	background-color: #040404;
+	top: 0px;
+	border-left: 0px;
 }
-.hero {
-	background-color: #F7F7F7;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-}
-.row .col-lg-1 .img-circle.img-responsive {
-	margin-top: 35px;
-}
-.name {
-	-webkit-box-shadow: 0px 0px #4F4F4F;
-	box-shadow: 0px 0px #4F4F4F;
-	font-size: 24px;
-	line-height: 36px;
-	font-family: 'Francois One', sans-serif;
-}
-.name_disc {
-	font-family: 'Khula', sans-serif;
+.bg-img {
+	background-image: url(../images/hero@2x-80.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100%;
+	
+	
 }
